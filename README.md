@@ -14,3 +14,8 @@ print(challenge.title, challenge.description)
 
 challenge.submit(is_palindrome)
 ```
+
+### Installation Via PyPi
+```python
+pip install WeekdayChallenge
+```
