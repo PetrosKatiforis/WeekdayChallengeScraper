@@ -4,7 +4,7 @@ A small python script to scrape github and fetch the latest beginner-py.com week
 
 ### Sample Usage
 ```python
-from WeekdayChallenge import WeekdayChallenge
+from WeekdayChallengeScraper import WeekdayChallenge
 
 def is_palindrome(string):
     return string == string[::-1]
